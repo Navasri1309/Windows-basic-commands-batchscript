@@ -32,10 +32,10 @@ Remove the directory "my-folder"
 
 
 ## COMMAND AND OUTPUT
-Create the file Rose.txt
+
 <img width="704" height="195" alt="Screenshot 2026-09-01 161212" src="https://github.com/user-attachments/assets/103d6391-67b8-4a9e-b21e-094c417aa9cf" />
 <img width="785" height="228" alt="Screenshot 2026-09-01 161221" src="https://github.com/user-attachments/assets/2dea9a05-a23c-4e40-b439-d6c5eea2aed4" />
-
+Create the file Rose.txt
 
 
 ## COMMAND AND OUTPUT
