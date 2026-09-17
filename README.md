@@ -22,55 +22,64 @@ Execute the necessary commands/batch file for the desired output.
 
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
-Create a directory named "my-folder"
+
 <img width="642" height="231" alt="Screenshot 2026-09-01 160856" src="https://github.com/user-attachments/assets/39b2b76b-e6d6-405d-8f8e-1a3140765772" />
 
+Create a directory named "my-folder"
 
 ## COMMAND AND OUTPUT
-Remove the directory "my-folder"
+
 <img width="720" height="107" alt="Screenshot 2026-09-01 161204" src="https://github.com/user-attachments/assets/4ec0df27-4d4b-477b-9742-2ea17f12f33c" />
 
+Remove the directory "my-folder"
 
 ## COMMAND AND OUTPUT
 
 <img width="704" height="195" alt="Screenshot 2026-09-01 161212" src="https://github.com/user-attachments/assets/103d6391-67b8-4a9e-b21e-094c417aa9cf" />
 <img width="785" height="228" alt="Screenshot 2026-09-01 161221" src="https://github.com/user-attachments/assets/2dea9a05-a23c-4e40-b439-d6c5eea2aed4" />
+
+
 Create the file Rose.txt
 
 
 ## COMMAND AND OUTPUT
-Create the file hello.txt using echo and redirection
+
 <img width="657" height="115" alt="Screenshot 2026-09-01 161234" src="https://github.com/user-attachments/assets/e7c6b2cc-751b-42d0-83aa-ddbbd6fed36a" />
 
+Create the file hello.txt using echo and redirection
 
 ## COMMAND AND OUTPUT
 
-Copy the file hello.txt into the file hello1.txt
+
 <img width="657" height="115" alt="Screenshot 2026-09-01 161234" src="https://github.com/user-attachments/assets/33452fb9-ee92-4010-a1da-5046e88edde2" />
 
-
+Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-Remove the file hello1.txt
+
 <img width="637" height="160" alt="Screenshot 2026-09-01 161259" src="https://github.com/user-attachments/assets/94b1b621-5907-40ff-9ca2-783f4cab0280" />
 
+Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
 
-List out the file hello1.txt in the current directory
+
 <img width="768" height="240" alt="Screenshot 2026-09-01 161405" src="https://github.com/user-attachments/assets/1c65c24a-b705-4604-8d46-d746d8fd70a1" />
 
+List out the file hello1.txt in the current directory
 
 ## COMMAND AND OUTPUT
-List out all the associated file extensions 
+
 <img width="777" height="543" alt="Screenshot 2026-09-01 161433" src="https://github.com/user-attachments/assets/f863bdfa-4430-4686-aced-80a00a18aabe" />
 
+List out all the associated file extensions 
 
 ## COMMAND AND OUTPUT
-Compare the file hello.txt and rose.txt
+
 <img width="702" height="265" alt="Screenshot 2026-09-01 161501" src="https://github.com/user-attachments/assets/c50893e4-0caa-4130-8a01-374b68fad797" />
 
+Compare the file hello.txt and rose.txt
 
 ## COMMAND AND OUTPUT
 
